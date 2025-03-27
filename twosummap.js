@@ -1,0 +1,3 @@
+function twosums(nums,target){
+
+}
