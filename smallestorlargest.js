@@ -8,7 +8,7 @@ function maxfinder(nums){
         smallest=nums[i]
     }
      if(nums[i]>largest){
-        largest=nums[i]''
+        largest=nums[i]
     }
    }
 
